@@ -1,0 +1,2 @@
+# serialporttool
+这是一个向特定串口发送自定义消息的小demo
